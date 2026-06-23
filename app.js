@@ -4,8 +4,8 @@
 
 const CONFIG = {
   telegram : "Big_Oldsellerx",
-  zangi    : "6970835383",
-  zangiUrl : "https://services.zangi.com/dl/conversation/6970835383",
+  zangi    : "8831893578",
+  zangiUrl : "https://services.zangi.com/dl/conversation/8831893578",
 };
 
 const TG_URL    = `https://t.me/${CONFIG.telegram}`;
